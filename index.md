@@ -1,30 +1,44 @@
-# Welcome to the KASTLE Lab
-The Knowledge and Semantic Technologies (KASTLE) Laboratory was founded in 2022 at Wright State University by Dr. Cogan Shimizu.
+# Knowledge Graphs and Knowledge Networks
 
-KASTLE Lab's mission is to
-* develop fundamental advances in knowledge engineering, especially as they pertain to knowledge graphs and including the development of relevant cyberinfrastructure;
-* explore the intersection between knowledge engineering, domain science, and machine/deep learning for the purpose of accelerating science and promoting data discovery and transdisciplinary research;
-* understand the bridge between human-conceptualization and machine-encoding to better align and design AI systems; and
-* advance the state of open curriculum in knowledge engineering and semantic technologies.
+Recently, generative artificial intelligence (GenAI) (e.g., ChatGPT for human-like conversations
+or Midjourney for fantastical image generation) has taken the public zeitgeist by storm.
+However, for all their prodigious performance, they have significant downsides. Confabulation, more
+widely known as hallucination, is a byproduct of the underlying models in these sorts of AI.
+One of the mechanisms to combat such confabulation, as well as overall augmenting the capacity
+of any sort of AI, not just GenAI, to support niche or domain science, is the principled integration of
+symbolic resources into AI models. This class of models, where neural learning and
+representation are tightly coupled with symbolic learning and representation is known as neurosymbolic AI
+(NeSy AI). Neurosymbolic AI techniques are poised to address many of the underlying
+research challenges in the AI field, especially as it pertains to the acceleration of science and
+discovery. Neurosymbolic agents (i.e., programs or applications that implement neurosymbolic
+AI techniques to accomplish specific or generalized tasks) encapsulate a tight integration of
+symbolic (e.g., knowledge representation) and subsymbolic (e.g., machine/deep learning or statistical)
+methods to approach human level cognition and perform relevant tasks.
 
-## Notices
-* Accepting Independent Study requests, Master's Thesis Proposals, Research Projects, LSAMP scholars, and more. Please see the [recruiting page](./recruiting.md) for more details.
+One common mechanism for symbolic learning and representation – especially in a human
+interpretable manner – is the use of ontologies, and a related structure known as knowledge
+graphs (KGs). They have quickly become a major paradigm supported by a broad set
+of methods and tools for the creation, extraction, integration, representation, and visualization of
+data, and supported by long-established W3C standards and recommendations. For
+Linked Data alone, which is but one form of a knowledge graph, a 2017 count showed more
+than 35 billion node-edge-node information triples freely available on the web. Schema.org
+data also constitutes a massive knowledge graph, as already in 2015 over 30% of web pages had
+the corresponding markup. We may also consider Wikipedia. It is fairly easy to remark on
+the significant impact that Wikipedia has had on the sheer magnitude of easily accessible
+knowledge available to the average person. Wikidata provides the same experience, but prioritizes
+a machine-readable format that makes it easy for data infrastructure to ingest.
 
-## Recent News
-* May 2024 -- Brandon Dave and Anmol Saini win DAGSI awards!
-* Apr 2024 -- Antrea Christou successfully defends her Master's Thesis! Congratulations!
-* Apr 2024 -- Brandon Dave successfully defends his Master's Thesis! Congratulations!
-* Apr 2024 -- Alexis Ellis successfully passes her Candidacy Exam! Congratulations!
-* Mar 2024 -- Paper accepted to [HHAI 2024](https://hhai-conference.org/2024/). 
-* Nov 2023 -- Cogan Shimizu gives key note talk at the [14th Workshop on Ontology Design and Patterns](https://odpa.github.io/workshop-on-ontology-design-and-patterns/2023/index.html), co-located with [ISWC 2023](https://iswc2023.semanticweb.org/). 
-* Oct 2023 -- KASTLE Lab makes excellent showing at [Wright State University's Celebration of Undergraduate and Graduate Research](https://www.wright.edu/event/celebration-of-undergraduate-graduate-research-scholarship-and-creative-activities). All KASTLE Lab students who submitted an abstract were invited to submit posters. Antrea was nominated to give a Data Blitz! Take a look [here](./events/research_celeb_2023.md) for some pictures of the event!
-* Oct 2023 -- Brandon Dave gives an invited talk to the International Semantic Intelligence Conference 2023 titled _"Towards Understanding the Impact of Schema on Knowledge Graph Embeddings"_.
-* Sep 2023 -- KASTLE Lab wins [1.5MM award from the National Science Foundation](https://new.nsf.gov/tip/updates/nsf-invests-first-ever-prototype-open-knowledge-network), as the Education Gateway to the [Proto-OKN](https://proto-okn.info/). For more information, visit the [project website](https://edugate.cs.wright.edu/)
-* Aug 2023 -- Alexis Ellis, as a part of the KASTLE lab, is awarded $24.5K from AFRL/SOCHE and $15K to research how symbols can be used to semantically represent complex AI systems for the greater good.
+Due to this proliferation of these semantic resources, as well as the growing focus on their ability
+to improve AI models (including curtailing hallucination in popular GenAI models), new computer
+science and engineering graduates are frequently expected to have some facility in the standards
+and resources for knowledge graphs, and the techniques necessary for integrating them into NeSy
+AI models.
 
-## More Useful Links
-In addition to the links in the sidebar, see the following links for interesting, useful, or related resources for 
-* [Cogan's Personal Webpage](https://coganshimizu.com/)
-* [The PRAXIS Initiative](https://the-praxis-initative.org/) -- a nexus for educational materials and activities, pertaining to knowledge engineering
-* [The Open Knowledge Graph Curriculum](https://github.com/KGConf/open-kg-curriculum) -- a curated set of modules for learning about knowledge graphs
-* [The Association for Ontology Design and Patterns](https://github.com/odpa) -- the community surrounding ontology design patterns development, usage, and other aspects of ontology design
+In this proposed REU Site: (Knowledge) Graphs and (Knowledge) Networks, we have curated a
+set of research projects that revolve around the leveraging of symbolic information (in the forms
+of graphs and networks) to improve the outcomes of machine learning (ML) and AI applications,
+all across a variety of disciplines. Due to the highly integral nature of
+graphs and networks (and graph and network data), there is clear complementary overlap in the
+different research fields in the Department of Computer Science and Engineering at Wright State
+and beyond. Indeed, the Leadership and Research Mentorship teams for this project
+comprise 75% of research-active faculty in the department.
