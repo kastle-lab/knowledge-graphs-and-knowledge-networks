@@ -5,13 +5,13 @@ for downstream tasks and as a component in neurosymbolic AI. Furthermore, PI Shi
 the PI for central outreach component, EduGate, of the Proto-OKN, thus providing a direct
 connection to leverage-able graph expertise across the 17 other teams supported by the program.
 
-* **Co-PI Michael L. Raymer** is a Professor in the Department of CSE at WSU. His research inter-
-ests include pattern recognition, machine learning, and deep neural networks, and topological data
-analysis. He most frequently applies these method to problems in bioinformatics and biomedical in-
-formatics. Dr. Raymer has also led and co-led many curriculum reform and pedagogy development
+* **Co-PI Michael L. Raymer** is a Professor in the Department of CSE at WSU. His research
+interests include pattern recognition, machine learning, and deep neural networks, and topological data
+analysis. He most frequently applies these method to problems in bioinformatics and biomedical
+informatics. Dr. Raymer has also led and co-led many curriculum reform and pedagogy development
 projects including development of the first NSF-funded undergraduate program in bionformatics,
-development of innovative mathematics curricula to increase retention and student success in engi-
-neering, and development of culturally-responsive pedagogy to increase success of students from
+development of innovative mathematics curricula to increase retention and student success in
+engineering, and development of culturally-responsive pedagogy to increase success of students from
 traditionally under-represented groups in computer science and engineering (funded by AAC&U).
 
 ## Resarch Mentorship
@@ -24,8 +24,8 @@ algorithms for human grasp, and object repair.
 * **Sean Banerjee** is the LexisNexis Endowed Co-Chair for Advanced Data Science and Engineering
 and Associate Professor in the Department of CSE at WSU. His research interests are on using
 human behavior data collected using multiview multimodal sensing systems in real and virtual
-environments to contribute AI algorithms that show awareness of the nuances of everyday human-
-human and human-object interactions for VR security.
+environments to contribute AI algorithms that show awareness of the nuances of everyday
+human-human and human-object interactions for VR security.
 
 * **Lingwei Chen** is an assistant professor in the Department of CSE at WSU. His research focuses
 on addressing trustworthy machine learning issues and real-world data challenges, particularly in
@@ -55,8 +55,8 @@ LLMs in terms of semantics of embeddings and logic-based reasoning.
 WSU. His research interests include scientific visualization, flow and scientific visualization, virtual
 environments and display technology, as well as biomedical imaging and visualization.
 
-* **Wen Zhang** is an assistant professor in the Department of CSE at WSU. Her research areas are in-
-terdisciplinary on IoTs, Deep Reinforcement Learning, Networking, as well as Smart & Connected
+* **Wen Zhang** is an assistant professor in the Department of CSE at WSU. Her research areas are
+interdisciplinary on IoTs, Deep Reinforcement Learning, Networking, as well as Smart & Connected
 Systems, with a particular dedication to Energy Harvesting and Embedded Devices.
 
 ## Regional Mentors & Opportunities
